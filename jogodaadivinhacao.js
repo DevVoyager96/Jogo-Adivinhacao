@@ -57,4 +57,3 @@ rl.on("line", function (data) {
         }
     }
 });
-
